@@ -1,4 +1,1 @@
-# Shell, permissions
-
-This project has the main details to know about permissions on a Unix system
-
+This scripts shows varipus permissions that can be done in shell
